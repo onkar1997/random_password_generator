@@ -1,0 +1,68 @@
+body{
+    background: url(../images/bg.jpg) center center fixed;
+    background-size: cover;
+    font-family: 'Merriweather', serif;
+}
+
+.container{
+    background-color: rgba(0,0,0,0.5);
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-size: 2em;
+}
+
+.out{
+    text-align: center;
+    color: crimson;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    padding: 5px 0;
+}
+
+.myBtn{
+    padding: 10px 10px;
+    font-size: 40px;
+    border-radius: 20px;
+}
+
+.pass{
+    width: 400px;
+    float: left;
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 25px;
+    background-color: crimson;
+    padding: 11px;
+    padding-left: 21px;
+    
+    
+}
+
+.in{
+    position: relative;
+    bottom: 67px;
+    left: 407px;
+    padding: 7px 7px 8px 7px;
+    text-align: center;
+    color: crimson;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
